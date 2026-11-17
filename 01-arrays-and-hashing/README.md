@@ -2,15 +2,15 @@
 
 Progress: **0/8**
 
-| # | Problem | Difficulty | Status | Solution |
+| LeetCode # | Problem | Difficulty | Status | Solution |
 |---|---------|------------|--------|----------|
-| 1 | Contains Duplicate | | â¬œ | |
-| 2 | Valid Anagram | | â¬œ | |
-| 3 | Two Sum | | â¬œ | |
-| 4 | Group Anagrams | | â¬œ | |
-| 5 | Top K Frequent Elements | | â¬œ | |
-| 6 | Product of Array Except Self | | â¬œ | |
-| 7 | Longest Consecutive Sequence | | â¬œ | |
-| 8 | Encode and Decode Strings | | â¬œ | |
+| 0217 | Contains Duplicate | | ⬜ | |
+| 0242 | Valid Anagram | | ⬜ | |
+| 0001 | Two Sum | | ⬜ | |
+| 0049 | Group Anagrams | | ⬜ | |
+| 0347 | Top K Frequent Elements | | ⬜ | |
+| 0238 | Product of Array Except Self | | ⬜ | |
+| 0128 | Longest Consecutive Sequence | | ⬜ | |
+| 0271 | Encode and Decode Strings | | ⬜ | |
 
-> Add each solved problem as its own folder here, e.g. `01-two-sum/` (copy `templates/PROBLEM_TEMPLATE.md` into it as `README.md`), then link it in the table above.
+> Add each solved problem as its own folder here, named with its LeetCode number, e.g. `0001-two-sum/` (copy `templates/PROBLEM_TEMPLATE.md` into it as `README.md`), then link it in the table above.

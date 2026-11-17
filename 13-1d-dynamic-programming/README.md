@@ -2,17 +2,17 @@
 
 Progress: **0/10**
 
-| # | Problem | Difficulty | Status | Solution |
+| LeetCode # | Problem | Difficulty | Status | Solution |
 |---|---------|------------|--------|----------|
-| 1 | Climbing Stairs | | â¬œ | |
-| 2 | House Robber | | â¬œ | |
-| 3 | House Robber II | | â¬œ | |
-| 4 | Longest Palindromic Substring | | â¬œ | |
-| 5 | Palindromic Substrings | | â¬œ | |
-| 6 | Decode Ways | | â¬œ | |
-| 7 | Coin Change | | â¬œ | |
-| 8 | Maximum Product Subarray | | â¬œ | |
-| 9 | Word Break | | â¬œ | |
-| 10 | Longest Increasing Subsequence | | â¬œ | |
+| 0070 | Climbing Stairs | | ⬜ | |
+| 0198 | House Robber | | ⬜ | |
+| 0213 | House Robber II | | ⬜ | |
+| 0005 | Longest Palindromic Substring | | ⬜ | |
+| 0647 | Palindromic Substrings | | ⬜ | |
+| 0091 | Decode Ways | | ⬜ | |
+| 0322 | Coin Change | | ⬜ | |
+| 0152 | Maximum Product Subarray | | ⬜ | |
+| 0139 | Word Break | | ⬜ | |
+| 0300 | Longest Increasing Subsequence | | ⬜ | |
 
-> Add each solved problem as its own folder here, e.g. `01-two-sum/` (copy `templates/PROBLEM_TEMPLATE.md` into it as `README.md`), then link it in the table above.
+> Add each solved problem as its own folder here, named with its LeetCode number, e.g. `0001-two-sum/` (copy `templates/PROBLEM_TEMPLATE.md` into it as `README.md`), then link it in the table above.
