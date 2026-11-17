@@ -28,12 +28,5 @@ See [`solution.py`](solution.py)
 ## What I learned / how to recognise this pattern
 -
 
-## Companies that ask this
-*Researched YYYY-MM-DD. Counts are indicative, not official (LeetCode's company data is Premium).*
-
-| Company | Reported frequency | Evidence |
-|---------|--------------------|----------|
-| | | |
-
 ## Related problems
 -
