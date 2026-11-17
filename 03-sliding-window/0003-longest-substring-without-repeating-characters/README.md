@@ -59,6 +59,13 @@ See [`solution.py`](solution.py)
 - what enumerate does
 - Time and Space Complexities and why
 
+## Follow-up questions
+
+**How would you handle a case-insensitive string?**
+Convert the string to lowercase (or uppercase) before processing to ensure consistency when checking for duplicates.
+
+**What if you needed to return the substring itself instead of its length?**
+Track the starting and ending indices of the longest substring during the traversal. Use these indices to extract the substring after completing the algorithm.
 
 ## Related problems
 
