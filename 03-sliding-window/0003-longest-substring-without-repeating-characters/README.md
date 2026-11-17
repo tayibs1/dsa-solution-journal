@@ -61,11 +61,9 @@ See [`solution.py`](solution.py)
 
 
 ## Companies that ask this
-*Researched 2026-11-17. LeetCode's own per-company frequency data is behind Premium, so this is compiled from public sources. Treat counts as indicative, not official.*
-
 **Most commonly reported (appear across nearly every source)**
 
-| Company | Reported frequency* | Evidence |
+| Company | Reported frequency | Evidence |
 |---------|---------------------|----------|
 | Amazon | 127 | [Tutorialspoint](https://www.tutorialspoint.com/practice/longest-substring-without-repeating-characters.htm), [Finxter](https://blog.finxter.com/?p=30922), [Taro](https://www.jointaro.com/interviews/amazon/longest-substring-without-repeating-characters) |
 | Google | 95 | [Tutorialspoint](https://www.tutorialspoint.com/practice/longest-substring-without-repeating-characters.htm), [Taro](https://www.jointaro.com/interview-insights/google/longest-substring-without-repeating-characters), [DEV Community](https://dev.to/akhilpokle/longest-substring-without-repeating-characters-solving-google-interview-question-2n72) |
@@ -73,8 +71,6 @@ See [`solution.py`](solution.py)
 | Meta (Facebook) | 68 | [Tutorialspoint](https://www.tutorialspoint.com/practice/longest-substring-without-repeating-characters.htm), [Codemia](https://codemia.io/practice/longest-substring-without-repeating-characters) (frequent in phone screens), [Taro](https://www.jointaro.com/interviews/meta/longest-substring-without-repeating-characters) |
 | Apple | 45 | [Tutorialspoint](https://www.tutorialspoint.com/practice/longest-substring-without-repeating-characters.htm) |
 | Bloomberg | 42 | [Tutorialspoint](https://www.tutorialspoint.com/practice/longest-substring-without-repeating-characters.htm), [LeetCode discuss: Bloomberg phone screen](https://leetcode.com/discuss/interview-experience/386438/) |
-
-\*Counts are Tutorialspoint's own "asked in" numbers and are not independently verified. Use them for relative ranking only.
 
 **Also reported (individual interview reports)**
 - Adobe: [Finxter](https://blog.finxter.com/?p=30922)
