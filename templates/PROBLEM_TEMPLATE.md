@@ -28,5 +28,10 @@ See [`solution.py`](solution.py)
 ## What I learned / how to recognise this pattern
 -
 
+## Follow-up questions
+
+**Question?**
+Answer.
+
 ## Related problems
 -
