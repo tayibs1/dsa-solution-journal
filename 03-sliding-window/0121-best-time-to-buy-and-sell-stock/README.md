@@ -19,8 +19,8 @@ Since we must buy and sell on different days, there are two pointers that repres
 2. After that, within the loop, every time before we check the profit we have to ensure the sell (right pointer) is more than the buy (left pointer).
 
 ## Complexity
-- **Time:** O(?)
-- **Space:** O(?)
+- **Time:** O(n)
+- **Space:** O(1)
 
 ## Solution
 See [`solution.py`](solution.py)
