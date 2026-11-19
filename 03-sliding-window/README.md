@@ -1,10 +1,10 @@
 # Sliding Window
 
-Progress: **1/4**
+Progress: **2/4**
 
 | LeetCode # | Problem | Difficulty | Status | Solution |
 |---|---------|------------|--------|----------|
-| 0121 | Best Time to Buy and Sell Stock | | ⬜ | |
+| 0121 | Best Time to Buy and Sell Stock | Easy | ✅ | [solution](0121-best-time-to-buy-and-sell-stock/) |
 | 0003 | Longest Substring Without Repeating Characters | Medium | ✅ | [solution](0003-longest-substring-without-repeating-characters/) |
 | 0424 | Longest Repeating Character Replacement | | ⬜ | |
 | 0076 | Minimum Window Substring | | ⬜ | |

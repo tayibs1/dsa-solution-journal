@@ -3,8 +3,8 @@
 - **LeetCode:** [#121](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) · [NeetCode](https://neetcode.io/problems/buy-and-sell-crypto/question?list=blind75)
 - **Difficulty:** Easy
 - **Topic:** Sliding Window
-- **Date solved:** YYYY-MM-DD
-- **Attempts / time taken:**
+- **Date solved:** 19/11/2026
+- **Attempts / time taken:** Solved in an hour, on my 2nd try
 
 ## Problem
 Given an array `prices` where `prices[i]` is the price of a stock on day `i`, pick one day to buy and a later day to sell to maximise profit. Return the maximum profit, or `0` if no profit is possible.
@@ -13,7 +13,10 @@ Given an array `prices` where `prices[i]` is the price of a stock on day `i`, pi
 What did you try first? Where did you get stuck?
 
 ## Approach
-The key insight / pattern, step by step.
+Since we must buy and sell on different days, there are two pointers that represent buy and sell (left and right). One pointer starts at 0 (the start of the array) and the other starts at 1, so we are comparing the first two values to see if they give us the most profit. But before that, we need to set up boundaries for what the pointers can do without causing errors:
+
+1. Our while loop should loop until the right pointer reaches the end of the array, so `right < len(prices)`.
+2. After that, within the loop, every time before we check the profit we have to ensure the sell (right pointer) is more than the buy (left pointer).
 
 ## Complexity
 - **Time:** O(?)
@@ -28,12 +31,12 @@ See [`solution.py`](solution.py)
 - All prices equal
 
 ## What I learned / how to recognise this pattern
--
+How to easily spot a sliding window problem, and how I can apply the sliding window to a differently phrased question. This question required a different approach, as we did not need to track the index value like we did for LeetCode problem 3, so it did throw me off initially. Now, after completing the problem, I can truly understand how simple sliding windows are.
 
 ## Follow-up questions
 
-**Question?**
-Answer.
+**How would the approach change if we were allowed at most two transactions?**
+A dynamic programming solution would be required. We maintain two transactions, tracking the best buy-sell pairs using two arrays (`left_profit` and `right_profit`), or optimize it using a state machine approach.
 
 ## Related problems
 

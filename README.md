@@ -8,7 +8,7 @@ My personal journey through the [NeetCode Blind 75](https://neetcode.io/practice
 |-------|--------|
 | [Arrays & Hashing](01-arrays-and-hashing/) | 0/8 |
 | [Two Pointers](02-two-pointers/) | 0/3 |
-| [Sliding Window](03-sliding-window/) | 1/4 |
+| [Sliding Window](03-sliding-window/) | 2/4 |
 | [Binary Search](04-binary-search/) | 0/2 |
 | [Linked List](05-linked-list/) | 0/6 |
 | [Stack](06-stack/) | 0/1 |
@@ -25,7 +25,7 @@ My personal journey through the [NeetCode Blind 75](https://neetcode.io/practice
 | [Bit Manipulation](17-bit-manipulation/) | 0/5 |
 | [Math & Geometry](18-math-and-geometry/) | 0/3 |
 
-**Total: 1/75**
+**Total: 2/75**
 
 ## How this repo is organised
 
