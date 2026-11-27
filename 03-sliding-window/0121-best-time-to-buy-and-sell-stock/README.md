@@ -10,7 +10,7 @@
 Given an array `prices` where `prices[i]` is the price of a stock on day `i`, pick one day to buy and a later day to sell to maximise profit. Return the maximum profit, or `0` if no profit is possible.
 
 ## Initial thoughts
-What did you try first? Where did you get stuck?
+so this is my initial thoughts thinking out loud after reading the question. so we are given an array which has all the prices and it states we must choose a single day to buy and a different day to sell so we cannot buy and sell on the same day and we cannot sell first before buying and the profit is calculated through subtracting sell price and buy price (SELL -BUY) and return max profit. the triage of enumerating an array, having 2 points that you track (buy and sell) and returning the highest amount of profit you can make (max) is very obviously a sliding window problem so we will need to use a for loop to enumerate through the prices keeping track of their index and value. the brute force method would be to use a for loop of trying every combination until we get the highest value but is there a better way? maybe we can have indexes of prices and their value and sell at the highest price and buy at lowest and if there comes a point through the sliding window where the buy price is higher than sell price then we move the sliding window along and in every iteration store the profit
 
 ## Approach
 Since we must buy and sell on different days, there are two pointers that represent buy and sell (left and right). One pointer starts at 0 (the start of the array) and the other starts at 1, so we are comparing the first two values to see if they give us the most profit. But before that, we need to set up boundaries for what the pointers can do without causing errors:
