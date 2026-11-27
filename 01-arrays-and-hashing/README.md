@@ -1,12 +1,12 @@
 # Arrays & Hashing
 
-Progress: **0/8**
+Progress: **1/8**
 
 | LeetCode # | Problem | Difficulty | Status | Solution |
 |---|---------|------------|--------|----------|
 | 0217 | Contains Duplicate | | ⬜ | |
 | 0242 | Valid Anagram | | ⬜ | |
-| 0001 | Two Sum | | ⬜ | |
+| 0001 | Two Sum | Easy | ✅ | [solution](0001-two-sum/) |
 | 0049 | Group Anagrams | | ⬜ | |
 | 0347 | Top K Frequent Elements | | ⬜ | |
 | 0238 | Product of Array Except Self | | ⬜ | |
